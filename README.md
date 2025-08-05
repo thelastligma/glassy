@@ -37,8 +37,8 @@ A modern, seamless Roblox executor with a beautiful UI designed for macOS and El
 ### Development Setup
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd opiumware-executor
+git clone https://github.com/thelastligma/glassy.git
+cd glassy
 ```
 
 2. Install dependencies:
