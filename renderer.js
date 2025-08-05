@@ -15,21 +15,7 @@ function App() {
   const [currentTheme, setCurrentTheme] = useState(themes[0].url);
   const [activeTab, setActiveTab] = useState('Executor');
   const [scriptContent, setScriptContent] = useState(
-`-- Welcome to the Glass Executor
--- Paste your script here.
-
-print("Hello from Opiumware Executor!")
-
--- Test script to verify execution
-local Players = game:GetService("Players")
-local player = Players.LocalPlayer
-
-if player then
-    print("Player found: " .. player.Name)
-    print("Script executed successfully!")
-else
-    print("Player not found")
-end`
+`print("glassy")`
   );
   const [isConnected, setIsConnected] = useState(false);
   const [connectedPort, setConnectedPort] = useState(null);
