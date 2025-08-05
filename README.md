@@ -1,4 +1,5 @@
-
+1.github clone
+```
 git clone https://github.com/thelastligma/glassy.git
 cd glassy
 ```
