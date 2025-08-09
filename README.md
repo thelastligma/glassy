@@ -13,10 +13,3 @@ npm install
 ```bash
 npm start
 ```
-
-### Building for Distribution
-
-#### macOS
-```bash
-npm run build:mac
-```
